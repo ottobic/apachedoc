@@ -1,0 +1,3 @@
+Este es una documento que fue agregado por otro usuario a la rama MASTER.
+
+fin.
